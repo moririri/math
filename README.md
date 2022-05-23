@@ -1,5 +1,7 @@
 # Math Test
 
+Githubで数式を書く練習。というかメモ。
+
 ## サンプル
 
 When $a \ne 0$, there are two solutions
