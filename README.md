@@ -2,6 +2,8 @@
 
 Githubで数式を書く練習。というかメモ。
 
+備忘録。
+
 ## サンプル
 
 When $a \ne 0$, there are two solutions
